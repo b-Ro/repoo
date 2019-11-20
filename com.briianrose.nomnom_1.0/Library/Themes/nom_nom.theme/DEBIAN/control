@@ -1,0 +1,10 @@
+Architecture: darwin-arm
+Name: nom_nom theme
+Package: /Users/medoskateboard/Documents/_themes_/nom_nom
+Version: 1.0 
+Size: 10.4mb
+Website: https://nomnom.iambrianrose.com/
+Icon: apple-logo@3x.png
+Maintainer: b___Ro
+Description: an ios theme for ios8-13.2.2+
+Section: Themes

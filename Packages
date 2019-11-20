@@ -1,13 +1,14 @@
-Package: com.site.tweakname
-Version: 1.0.0
+Package: com.briianrose.nomnom
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: YourName <YourEmail>
-Filename: /TweakName.deb
-Size: (size without ,'s')
-MD5sum: xxxxxxxxxxxx
-SHA1: xxxxxxxxxxxx
-SHA256: xxxxxxxxxxxx
-Section: (Folder Name)
-Description: (What Is This Tweak)
-Author: (Tweak Owner) (Email)
-Name: (NameHere)
+Maintainer: b___Ro <giantwaffle@gmail.com>
+Filename: /com.briianrose.nomnom_1.0
+Size: 8258130
+MD5sum: 27183802640043de17dd3a372d10fd93
+SHA1: b6c78fa6e216f6621f7a04fc2d092c20a50488bc
+SHA256: ea47e4daf5a8a9bd9bdc84e90f75182c2a3bd18d261fd9abf58ec23a50136f81
+Section: Themes
+Description: an ios custom theme
+Author: b___Ro (giantwaffle@gmail.com)
+Name: nom_nom
+
